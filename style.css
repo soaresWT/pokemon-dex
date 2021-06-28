@@ -47,7 +47,8 @@ h1 {
   top: 15%;
   left: 25%;
 }
-
+.ghost{
+	background-color:#F799FA;
 .steel {
 	background-color: #f4f4f4;
 }
